@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="df61fac026244e409a976e528cd1f41c" Name="Diagram1">
+        <EntityTypeShape EntityType="LabDBModel.Agent" Width="1.5" PointX="4.375" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabDBModel.OrderDetail" Width="1.5" PointX="7.625" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabDBModel.Orderr" Width="1.5" PointX="4.375" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabDBModel.tblItem" Width="1.5" PointX="7.625" PointY="3" IsExpanded="true" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
